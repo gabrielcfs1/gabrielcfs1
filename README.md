@@ -1,7 +1,7 @@
 ### Hi there, I'm Gabriel Colombo 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT and starting with frameworks!
+- 🔭 I’m currently trying to find a work to get some developing experience...
+- 🌱 I’m learning HTML, CSS, JAVASCRIPT and starting with frameworks!
 
 <div>
   <a href="https://github.com/gabrielcfs1">
