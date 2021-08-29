@@ -1,6 +1,6 @@
 ### Hi there, I'm Gabriel Colombo 👋
 
-- 🔭 I’m currently trying to find a work to get some developing experience...
+- 🔭 I’m currently trying to find a work to get some development experience...
 - 🌱 I’m learning HTML, CSS, JAVASCRIPT and starting with frameworks!
 
 <div>
