@@ -1,4 +1,4 @@
-### Hi there, I'm Gabriel Colombo 👋
+### Hi there, I'm Gabriel 👋
 
 - 🔭 I’m currently trying to find a work to get some development experience...
 - 🌱 I’m learning HTML, CSS, JAVASCRIPT and starting with frameworks!
