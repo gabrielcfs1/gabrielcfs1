@@ -1,13 +1,25 @@
-### Hi there, I'm Gabriel 👋
+<div>
+  <a href="https://www.linkedin.com/in/gabriel-c-2b701a198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:colombogabriel00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-- 🔭 I’m currently searching for my first job with development!
-- 🌱 I’m learning JavaScript, NodeJS and Python
+## Hello there
 
+I will try to show a little bit about myself for you.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielcfs1&show_icons=true&theme=dracula&count_private=true)
+## Public information
 
+My name is Gabriel. I currently live in São José dos Pinhais, Brazil 
 
-## Techs
+On my free time, I used to study more to get experience
+
+## Detailed information
+
+* **Name**: Gabriel
+* **Age**: 22
+* **Living in**: São José dos Pinhaos - PR, Brazil
+* **Stack**: JavaScript - NodeJS - Python - SQL - MongoDB
+* **University**: 8th semester of higher course in Bachelor of Information Systems - Faculdade das Indústrias 
 
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -15,12 +27,5 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-
-## Contact me
-
-<div>
-  <a href="https://www.linkedin.com/in/gabriel-c-2b701a198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:colombogabriel00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
