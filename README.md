@@ -9,13 +9,13 @@ I will try to show a little bit about myself for you.
 
 ## Public information
 
-My name is Gabriel. I currently live in São José dos Pinhais, Brazil 
+My name is Gabriel Colombo. I currently live in São José dos Pinhais, Brazil 
 
-My focus is to become a data analyst
+My focus today is become a data analyst
 
 ## Detailed information
 
-* **Name**: Gabriel
+* **Name**: Gabriel Colombo
 * **Age**: 22
 * **Living in**: São José dos Pinhaos - PR, Brazil
 * **Stack**: JavaScript - NodeJS - Python - SQL - MongoDB
