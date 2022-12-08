@@ -11,7 +11,7 @@ I will try to show a little bit about myself for you.
 
 My name is Gabriel. I currently live in São José dos Pinhais, Brazil 
 
-On my free time, I used to study more to get experience
+My focus is to become a data analyst
 
 ## Detailed information
 
