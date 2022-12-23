@@ -18,7 +18,7 @@ My focus today is become a data analyst
 * **Name**: Gabriel Colombo
 * **Age**: 22
 * **Living in**: São José dos Pinhais - PR, Brazil
-* **Stack**: JavaScript - NodeJS - Python - SQL - MongoDB
+* **Stack**: Python - JavaScript - NodeJS - SQL - MongoDB - Power BI
 * **University**: 8th semester of higher course in Bachelor of Information Systems - Faculdade das Indústrias 
 
 <div style="display: inline_block">
