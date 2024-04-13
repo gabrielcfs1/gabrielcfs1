@@ -9,7 +9,7 @@ I will try to show a little bit about myself for you.
 
 ## Public information
 
-My name is Gabriel Colombo. I currently live in São José dos Pinhais, Brazil 
+My name is Gabriel Colombo. I currently live in São Paulo, Brazil 
 
 My focus today is become a developer
 
@@ -19,7 +19,7 @@ My focus today is become a developer
 * **Age**: 24 years
 * **Living in**: São Paulo, Brazil
 * **Stack**: Python - JavaScript - ReactJS - NodeJS - SQL - MongoDB
-* **University**: Higher course completed in Bachelor of Information Systems - Faculdade das Indústrias 
+* **University**: Higher course completed in Bachelor of Information Systems 
 
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
