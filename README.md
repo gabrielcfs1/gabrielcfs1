@@ -16,8 +16,8 @@ My focus today is become a developer
 ## Detailed information
 
 * **Name**: Gabriel Colombo
-* **Age**: 23
-* **Living in**: São José dos Pinhais - PR, Brazil
+* **Age**: 24 years
+* **Living in**: São Paulo, Brazil
 * **Stack**: Python - JavaScript - ReactJS - NodeJS - SQL - MongoDB
 * **University**: Higher course completed in Bachelor of Information Systems - Faculdade das Indústrias 
 
